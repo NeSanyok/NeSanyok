@@ -7,7 +7,7 @@
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nesanyok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nesanyok" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrbeast" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=G_lpJ3YlTrE"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mukbang" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
