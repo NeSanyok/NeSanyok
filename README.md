@@ -6,7 +6,7 @@
 <br>
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
-    <img align="right" width=184px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
+    <img align="right" width=183px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
