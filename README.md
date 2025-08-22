@@ -17,7 +17,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
   - *Rust*
   - *Arch linux*
 - I had some experience with frontend development but never really did any *actual* projects.
-- Outside tech, I enjoy playing sum multiplayer crap, listening to my daily mix and playing on piano from time to time.
+- Outside tech, I enjoy playing sum multiplayer crap, listening to my daily mixes and playing on piano from time to time.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
 
 <img width=100% height=500px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
