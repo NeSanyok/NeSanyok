@@ -6,7 +6,7 @@
 <br>
 <div width=100% height=100%>
     <img width=67% height=100% align="left" src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
-    <img width=33% height=100% align="right" alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
+    <img width=33% height=230px align="right" alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
