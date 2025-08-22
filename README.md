@@ -5,23 +5,24 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<div width=100% height=291px>   
-    <img width=67% height=100% align="left" src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
-    <img width=33% height=100% align="right" alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
-</div>
+<img width=100% height=100% align="center" src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
     
 ### A bit about myself 
-I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
+<div>
+    
+<h3>I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
 - I’m currently learning ...
   - *Rust*
   - *Arch linux*
 - I’m eager to join new projects.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
+</h3>
+</div>
 
 ### Skills
 ###### Languages & Syntax:
