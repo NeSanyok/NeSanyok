@@ -13,14 +13,13 @@
     
 ### A bit about myself 
 <div>    
-<div align="left">I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
+I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
 - I’m currently learning ...
   - *Rust*
   - *Arch linux*
 - I’m eager to join new projects.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
-</div>
 <img align="right" width=310px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 
