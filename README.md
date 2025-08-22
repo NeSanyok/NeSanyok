@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 style="margin: 1000px;"align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nesanyok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nesanyok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrbeast" height="30" width="40" /></a>
