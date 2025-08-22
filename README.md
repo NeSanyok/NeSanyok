@@ -6,12 +6,12 @@
 <br>
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+    <img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 <div>
-<img align="right" width=230px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 
 ### A bit about myself 
 I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
