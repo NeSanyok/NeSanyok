@@ -57,6 +57,17 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
 </tr>
 </table>
 </p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NeSanyok&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeSanyok&theme=nightowl&hide_border=false" alt="My streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NeSanyok&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
 
 ### Connect with me!
 <div>
