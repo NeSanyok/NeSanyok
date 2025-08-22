@@ -27,7 +27,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
 ###### Languages & Syntax:
 [![My Languages](https://skillicons.dev/icons?i=js,rust)](https://skillicons.dev)
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://c.tenor.com/9gh-oa2u_FoAAAAC/tenor.gif"/>
 
 ###### Frontend Development:
 [![My Frontend](https://skillicons.dev/icons?i=react,html,css,ts)](https://skillicons.dev)
