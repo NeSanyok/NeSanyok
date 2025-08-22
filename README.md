@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-![(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2h3FROxm5JzcQFOO6PZ6TlHjXpZSqxyTgA&s)]
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2h3FROxm5JzcQFOO6PZ6TlHjXpZSqxyTgA&s)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nesanyok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nesanyok" height="30" width="40" /></a>
