@@ -13,6 +13,7 @@
 -->
 
 <div>
+<br>
     
 ### A bit about myself 
 I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
