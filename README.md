@@ -20,7 +20,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=github,js,react,html,css,ts,ps,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ts,ps,rust)](https://skillicons.dev)
 
 ### Software
 [![My Software](https://skillicons.dev/icons?i=vscode,arch)](https://skillicons.dev)
