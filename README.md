@@ -13,7 +13,16 @@
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
-
+### A bit about myself 
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+- 📚 I’m currently learning ...
+  - *Angular*
+  - *TypeScript*
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+<br>
 <!--
      My mission, because I'm a superhero!
 -->
@@ -25,9 +34,6 @@
 
 ### Software
 [![My Software](https://skillicons.dev/icons?i=vscode,arch)](https://skillicons.dev)
-
-### A bit about myself 
-<h2>I'm a student learning programming, mainly in Rust. I spend time practicing problem-solving and building small projects to get better at writing clear and reliable code. Hope you'll find my projects interesting and inspiring. #fuckclanckers</h2>
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
