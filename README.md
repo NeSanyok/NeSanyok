@@ -17,7 +17,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
   - *Rust*
   - *Arch linux*
 - I’m eager to join new projects.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- Outside tech, I enjoy playing sum multiplayer crap, listening to my daily mix and playing on piano from times to times.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
 
 <img width=100% height=500px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
