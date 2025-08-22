@@ -22,7 +22,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
-<br>
+
 <!--
      My mission, because I'm a superhero!
 -->
