@@ -2,7 +2,7 @@
     Stole it from Daria Stanilevici and ALX-13. 
 -->
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Wsp lil spoon, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <!--
