@@ -16,7 +16,7 @@ Doesn't quite fit:
 
     
 ### A bit about myself 
-- I am a Nord Anglia Education student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my goal is to graduate as a robotics engineer.
+- I am a Nord Anglia Education student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development.
 - I’m currently learning:
   - *Rust*
   - *Arch linux*
