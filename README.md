@@ -26,21 +26,21 @@ Doesn't quite fit:
 
 ### Skills
 ###### Languages & Syntax:
-[![My Languages](https://skillicons.dev/icons?i=js,rust)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,rust)](http://127.0.0.1:8080)
 
 <img align=right width=310px alt="Unicorn" src="https://c.tenor.com/9gh-oa2u_FoAAAAC/tenor.gif"/>
 
 ###### Frontend Development:
-[![My Frontend](https://skillicons.dev/icons?i=react,html,css,ts)]()
+[![My Frontend](https://skillicons.dev/icons?i=react,html,css,ts)](http://127.0.0.1:8080/)
 
 ###### Backend & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=rust,actix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,actix)](http://127.0.0.1:8080)
 
 ###### Development Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arch)](http://127.0.0.1:8080)
 
 ###### Development Environments:
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) <p>and zed! (I'm out of icons...)</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](http://127.0.0.1:8080) <p>and zed! (I'm out of icons...)</p>
 
 ### Github Stats
 <p align="center">
