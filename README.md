@@ -21,7 +21,7 @@
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
 </div>
-<img align="right" width=310px alt="Unicorn" src="https://c.tenor.com/9gh-oa2u_FoAAAAC/tenor.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 
 ### Skills
