@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <picture>
  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2h3FROxm5JzcQFOO6PZ6TlHjXpZSqxyTgA&s">
- <img alt="YOUR-ALT-TEXT" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2h3FROxm5JzcQFOO6PZ6TlHjXpZSqxyTgA&s">
+ <img alt="YOUR-ALT-TEXT" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2h3FROxm5JzcQFOO6PZ6TlHjXpZSqxyTgA&s">
 </picture>
 
 <h3 align="left">Connect with me:</h3>
