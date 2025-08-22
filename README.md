@@ -10,6 +10,7 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
+<div>
 <img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/HJTXKCtOYwgAAAAd/tenor.gif"/>
 
 ### A bit about myself 
@@ -20,6 +21,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
 - I’m eager to join new projects.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
+</div>
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ts,ps,rust)](https://skillicons.dev)
