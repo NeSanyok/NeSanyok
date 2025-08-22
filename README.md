@@ -16,11 +16,10 @@ Doesn't quite fit:
 
     
 ### A bit about myself 
-I am a Nord Anglia Education student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a robotics engineer.
+- I am a Nord Anglia Education student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my goal is to graduate as a robotics engineer.
 - I’m currently learning:
   - *Rust*
   - *Arch linux*
-- I had some experience with frontend development but never really did any *actual* projects.
 - Outside tech, I enjoy playing sum multiplayer crap, listening to my daily mixes and playing on piano from time to time.
 
 <img width=100% height=500px alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
