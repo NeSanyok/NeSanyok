@@ -2,69 +2,30 @@
     Stole it from Daria Stanilevici and ALX-13. 
 -->
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
--->
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 <h1><b>Hi there, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+<img align="right" width=200px alt="Unicorn" src="https://tenor.com/view/perfect-popcorn-michael-jackson-gif-26271837"/>
 
 ### A bit about myself 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
-- 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
+I am a **BST** student, currently halfway through my IGCSE, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my final goal is to graduate as a engineer robotechnician. I love to learn and build something new, creative and funny.
+- I’m currently learning ...
+  - *Rust*
+  - *Arch linux*
+- I’m eager to join new projects.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+- Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
 
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ts,ps,rust)](https://skillicons.dev)
 
 ### Software
 [![My Software](https://skillicons.dev/icons?i=vscode,arch)](https://skillicons.dev)
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
-
-<!-- ### Publications
-<div> 
-  <a href="https://medium.com/@daria-stanilevici">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
-</div>
-
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
--->
-<!--
-Check out my latest post 👇  
-
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
-
-
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
-     Fast links to my socials!
--->
 
 ### Connect with me!
 <div>
@@ -72,16 +33,3 @@ Check out my latest post 👇
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="LinkedIn" width="35" height="35"/
     </a>
 </div>
-<!--
-     Oh, hello there, recruiters!
--->
-<!--
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
--->
-<!--
-     Thanks for being my guest <3
--->
