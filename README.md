@@ -25,7 +25,7 @@
 ### Software
 [![My Software](https://skillicons.dev/icons?i=vscode,arch)](https://skillicons.dev)
 
-### About myself 
+### A bit about myself 
 <h2>I'm a student learning programming, mainly in Rust. I spend time practicing problem-solving and building small projects to get better at wirting lear and reliable code. Hope you find my projects interesting and inspiring. #fuckclanckers</h2>
 <!--
      I also have my own blog with useful information, check it out ^^
@@ -61,7 +61,7 @@ Check out my latest post 👇
 ### Connect with me!
 <div>
     <a href="https://t.me/NeSanyok">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="LinkedIn" width="35" height="35"/
     </a>
 </div>
 <!--
