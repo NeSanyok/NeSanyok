@@ -31,7 +31,7 @@ Doesn't quite fit:
 <img align=right width=310px alt="Unicorn" src="https://c.tenor.com/9gh-oa2u_FoAAAAC/tenor.gif"/>
 
 ###### Frontend Development:
-[![My Frontend](https://skillicons.dev/icons?i=react,html,css,ts)](https://skillicons.dev)
+[![My Frontend](https://skillicons.dev/icons?i=react,html,css,ts)]()
 
 ###### Backend & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=rust,actix)](https://skillicons.dev)
