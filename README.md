@@ -26,7 +26,7 @@
 [![My Software](https://skillicons.dev/icons?i=vscode,arch)](https://skillicons.dev)
 
 ### A bit about myself 
-<h2>I'm a student learning programming, mainly in Rust. I spend time practicing problem-solving and building small projects to get better at wirting lear and reliable code. Hope you find my projects interesting and inspiring. #fuckclanckers</h2>
+<h2>I'm a student learning programming, mainly in Rust. I spend time practicing problem-solving and building small projects to get better at writing clear and reliable code. Hope you'll find my projects interesting and inspiring. #fuckclanckers</h2>
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
