@@ -38,10 +38,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
 [![My Skills](https://skillicons.dev/icons?i=git,github,arch)](https://skillicons.dev)
 
 ###### Development Environments:
-<div>
-    
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) <p>and zed! (I'm out of icons...)</p>
-</div>
 
 ### Github Stats
 <p align="center">
