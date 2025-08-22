@@ -2,8 +2,8 @@
     Stole it from Daria Stanilevici. 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+-->
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -61,7 +61,6 @@ Check out my latest post 👇
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
--->
 <!--
      Oh, hello there, recruiters!
 -->
@@ -71,7 +70,6 @@ Check out my latest post 👇
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
--->
 <!--
      Thanks for being my guest <3
 -->
