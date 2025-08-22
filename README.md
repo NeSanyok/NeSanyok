@@ -14,7 +14,11 @@
 <!DOCTYPE html>
         <html>
         <head>
-            <style>
+        </head>
+        <body>
+            <h1>Internal CSS Example</h1>
+            <p>This paragraph is styled with internal CSS.</p>
+                <style>
                 h1 {
                     color: green;
                 }
@@ -22,9 +26,5 @@
                     font-size: 16px;
                 }
             </style>
-        </head>
-        <body>
-            <h1>Internal CSS Example</h1>
-            <p>This paragraph is styled with internal CSS.</p>
         </body>
         </html>
