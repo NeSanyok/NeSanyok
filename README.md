@@ -4,7 +4,7 @@
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
-<div style="width: 100%;">
+<div width= 100%>
     <img width=67% align="left" src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
     <img width=33% align="right" alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
