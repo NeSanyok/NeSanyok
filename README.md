@@ -22,6 +22,7 @@ I am a **BST** student, currently halfway through my IGCSE, I am expanding my kn
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - Reach out to me at: <a href="tochnonesanyok@gmail.com">tochnonesanyok@gmail.com</a>
 </div>
+
 ***Skills***
 <br>
 
