@@ -5,8 +5,8 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/NeSanyok">Alexander</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 <div style="width: 100%;">
-    <img align: left src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
-    <img align: right alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
+    <img align="left" src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+    <img align="right" alt="Unicorn" src="https://c.tenor.com/bH7txqsiZawAAAAd/tenor.gif"/>
 </div>
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
